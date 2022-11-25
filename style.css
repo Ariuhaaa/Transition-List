@@ -1,0 +1,53 @@
+/* li {
+    background-color: aqua;
+    list-style: none;
+    width: 200px;
+    height: 20px;
+    padding:5px;
+    border-color: grey;
+    border-top: 200px;
+    border-bottom: 1px solid black;
+    transition: height 1s;
+}
+.one:hover {
+    height: 30px;
+
+}
+.item1:hover {
+    width: 300px;
+}
+.two:hover {
+    height: 30px;
+}
+.three:hover {
+    height: 30px;
+}
+.four:hover {
+    height: 30px;
+}
+.five:hover {
+    height: 30px;
+}
+.item1:hover {
+    width:fit-content
+} */
+
+div {
+    background-color: aqua;
+    width: 200px;
+    height: 30px;
+    margin: 0px;
+    padding: 0px;
+    border-color: grey;
+    border-top: 200px;
+    border-top: 1px solid black;
+    transition: height 1s;
+}
+div:hover {
+    height: 50px;
+}
+
+.word:hover {
+   font-size: 20px;
+   
+}
